@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria: Project Omega",
+  "description": "An open-world 3D fantasy survival action RPG and anime cultivation adventure across five interconnected realms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
